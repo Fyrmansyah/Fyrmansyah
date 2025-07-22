@@ -95,7 +95,7 @@
 <h3 align="left">GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fyrmansyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fyrmansyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
 </div>
 
 ---
