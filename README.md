@@ -10,7 +10,6 @@
 - 🔭 I'm a **Frontend Developer** passionate about creating amazing user experiences
 - 🌱 Currently learning **Advanced React Patterns** and **Next.js**
 - 📫 Reach me at: **firmansyahrizki278@gmail.com**
-- ⚡ Fun fact: I love anime and creating digital content!
 
 <br clear="both">
 
@@ -78,16 +77,16 @@
 
 ---
 
-<h3 align="left">GitHub Statistics</h3>
+<h3 align="left">GitHub Statistics</h3>  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fyrmansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=15" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fyrmansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&border_radius=15" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fyrmansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&border_radius=15" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fyrmansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&border_radius=15" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fyrmansyah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=15" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyrmansyah&theme=dracula&bg_color=282a36&hide_border=true&border_radius=15" height="250" alt="activity graph" />
+  <img src="https://streak-stats.demolab.com?user=Fyrmansyah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=15" height="150" alt="streak graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fyrmansyah&theme=dracula&bg_color=282a36&hide_border=true&border_radius=15" height="250" alt="activity graph" />
 </div>
 
 ---
@@ -95,7 +94,7 @@
 <h3 align="left">GitHub Trophies</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fyrmansyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fyrmansyah&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
 </div>
 
 ---
@@ -122,14 +121,14 @@
 <h3 align="left">Current Streak & Activity</h3>
 
 <div align="center">
-  <img src="https://github.com/Fyrmansyah/Fyrmansyah/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Fyrmansyah/Fyrmansyah/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fyrmansyah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/fyrmansyah?label=Followers&style=social" alt="GitHub Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Fyrmansyah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Fyrmansyah?label=Followers&style=social" alt="GitHub Badge" />
 </div>
 
 <div align="center">
