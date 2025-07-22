@@ -86,7 +86,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rexoogen&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=15" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=fyrmansyah&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=15" height="150" alt="streak graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fyrmansyah&theme=dracula&bg_color=282a36&hide_border=true&border_radius=15" height="250" alt="activity graph" />
 </div>
 
