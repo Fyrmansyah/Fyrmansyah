@@ -122,7 +122,7 @@
 <h3 align="left">Current Streak & Activity</h3>
 
 <div align="center">
-  <img src="https://github.com/ReXooGen/ReXooGen/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Fyrmansyah/Fyrmansyah/blob/main/.github/workflows/snake.svg" alt="Snake animation" />
 </div>
 
 ---
